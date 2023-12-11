@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416572093836",
+    "project_id": "projectmqtt-6553c",
+    "storage_bucket": "projectmqtt-6553c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416572093836:android:18a0041d0a6e789befd2a9",
+        "android_client_info": {
+          "package_name": "twin.developers.projectmqtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY2yeLGAIiTBC98QgNkEWHT2rPUxgtNT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
